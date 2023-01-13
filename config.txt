@@ -1,0 +1,1 @@
+{"config_prod": {"auth_key": "Basic string", "base_url": "https://open.smileapi.io/v1/"}, "config_test": {"auth_key": "Basic string", "base_url": "https://sandbox.smileapi.io/v1/"}}
